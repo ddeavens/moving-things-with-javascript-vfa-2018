@@ -17,5 +17,3 @@ describe('index', () => {
   })
 })
 
-var dodger= document.getElementById('dodger')
-dodger.style.backgroundColor="#00000"
