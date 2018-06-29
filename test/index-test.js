@@ -16,3 +16,6 @@ describe('index', () => {
     expect(true).to.be.true
   })
 })
+
+var dodger= document.getElementById('dodger')
+dodger.style.backgroundColor="#00000"
